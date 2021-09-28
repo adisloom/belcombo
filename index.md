@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Belarusian Combined Keyboard Layouts
 
-You can use the [editor on GitHub](https://github.com/adisloom/belcombo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Belarusian keyboard layouts combined with other languages used by belarusians for Windows and MacOS. Additional letters can by typed by holding AltGr button (Option on mac or left Ctrl+Alt on Windows). One can type in 2 languages without switching keyboard layout. **Alt+Щ = Ў**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Layouts preview
 
-### Markdown
+#### Russian + BY
+###### Based on russian, all the belarusian letters added.
+ 
+![Russian + BY](/asset/Russian-plus-BY.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### English + BY łacinka + PL
 
-```markdown
-Syntax highlighted code block
+###### Based on the US English, belarusian and polish letters adeed. Enables a user to type in 3 languages without switching the layout. It is supposed to replace the standard english layout in your system, so for Windows it installs with en-US locale.
 
-# Header 1
-## Header 2
-### Header 3
+![English + BY łacinka + PL](/../master/asset/English-plus-BY-lacinka-and-PL.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Belarusian (Cyrillic) + RU
+###### Based on Belarusian, all the russian letters added.
 
-**Bold** and _Italic_ and `Code` text
+![Belarusian (Cyrillic) + RU](/../master/asset/Belarusian-(Cyrillic)-plus-RU.png)
 
-[Link](url) and ![Image](src)
-```
+#### Belarusian (Latin)
+###### Based on English, all the łacinka letters added. By [aicantar](https://github.com/aicantar/lacinka)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Belarusian (Latin)](/../master/asset/Belarusian-(Latin).png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adisloom/belcombo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contributing
 
-### Support or Contact
+Use [Ukelele][ukelele] on macOS and [Microsoft Keyboard Layout Creator][msklc] on Windows to edit the source files.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[layout-preview]: ./.static/Lacinka-BY-PL-US.png
+[releases]: https://github.com/aicantar/lacinka/releases
+[msklc]: https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator
+[ukelele]: http://software.sil.org/ukelele/
