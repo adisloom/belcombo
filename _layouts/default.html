@@ -23,8 +23,10 @@
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
+            {% if site.show_downloads %}
             <a href="https://github.com/adisloom/belcombo/releases/download/v1.2/belcombo-win.zip" id="download-zip" class="button"><span>Для Windows</span></a>
             <a href="https://github.com/adisloom/belcombo/releases/download/v1.2/belcombo-mac.dmg" id="download-dmg" class="button"><span>Для macOS</span></a>
+            {% endif %}
         </section>
         <hr>
         <section id="main_content">
