@@ -9,7 +9,7 @@
 
 #### English + BY łacinka + PL
 
-###### Zasnavana na angielskaj, dadany ŭsie litary biełaruskaj łacinki i polskija. Dazvalaje pisać na 3 movach nie pieraklučvajučy raskładku. Raju karystacca joj zamiest angielskaj, tamu dla Windows jana ŭ en-US locale, kab było mahčyma vydalić standartnuju angielskuju raskladku z systemy. [Спампаваць](https://github.com/adisloom/belcombo/releases)
+###### Zasnavana na angielskaj, dadany ŭsie litary biełaruskaj łacinki i polskija. Dazvalaje pisać na 3 movach nie pieraklučvajučy raskładku. Raju karystacca joj zamiest angielskaj, tamu dla Windows jana ŭ en-US locale, kab było mahčyma vydalić standartnuju angielskuju raskładku z systemy. [Спампаваць](https://github.com/adisloom/belcombo/releases)
 
 ![English + BY łacinka + PL](https://raw.githubusercontent.com/adisloom/belcombo/master/asset/English-plus-BY-lacinka-and-PL.png)
 
