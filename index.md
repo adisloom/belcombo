@@ -1,9 +1,6 @@
-## Беларусские комбинированые раскладки клавиатуры
+## Комбинированные раскладки клавиатуры для Беларуси
 
-Раскладки клавиатуры совмещающие беларусский язык с буквами других языков. Их можно набирать не переключая рскладку, например, **Alt + Щ = Ў**. Версии для 
-Apple MacOS и Microsoft Windows. Для получения альтернативной буквы используется правый Alt или комбинация левых Ctrl+Alt, на MacOS - Option.
-
-## Обзор раскладок
+Раскладки клавиатуры совмещающие беларусский язык с буквами других языков. Буквы можно набирать не переключаясь на другую раскладку, например, **Alt + Щ = Ў**.  Для получения альтернативной буквы на Windows используется правый Alt или комбинация левых Ctrl+Alt, на MacOS - Option.
 
 #### Russian + BY
 ###### Основная русская, добавлены все беларусские буквы включая букву Ґ для Тарашкевицы. [Спампаваць](https://github.com/adisloom/belcombo/releases)
@@ -18,19 +15,19 @@ Apple MacOS и Microsoft Windows. Для получения альтернати
 
 
 #### Belarusian (Cyrillic) + RU
-###### Заснована на беларускай, даданы ўсе расейскія літары, а таксама пакінутая беларуская літара Ґ для Тарашкевіцы. [Спампаваць](https://github.com/adisloom/belcombo/releases)
+###### Заснавана на беларускай, даданы ўсе расейскія літары, а таксама пакінутая беларуская літара Ґ для Тарашкевіцы. [Спампаваць](https://github.com/adisloom/belcombo/releases)
 
 ![Belarusian (Cyrillic) + RU](https://raw.githubusercontent.com/adisloom/belcombo/master/asset/Belarusian-(Cyrillic)-plus-RU.png)
 
 #### Belarusian (Latin)
-###### Zasnavana na angielskaj, dadany ŭsie litary z łacinki, u tym liku aficyjnaja i klasyčnaja Ĺ Ł. [Спампаваць](https://github.com/adisloom/belcombo/releases) Dziakuj, [aicantar](https://github.com/aicantar/lacinka) 
+###### Zasnavana na angielskaj, dadany ŭsie litary z łacinki, u tym liku aficyjnaja j klasyčnaja Ĺ Ł. [Спампаваць](https://github.com/adisloom/belcombo/releases) Dziakuj, [aicantar](https://github.com/aicantar/lacinka) 
 
 ![Belarusian (Latin)](https://raw.githubusercontent.com/adisloom/belcombo/master/asset/Belarusian-(Latin).png)
 
 
 ## Узяць удзел
 
-Скарыстай [Ukelele](http://software.sil.org/ukelele) на macOS і [Microsoft Keyboard Layout Creator](https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator) на Windows каб правіць файлы-крыніцы.
+Скарыстай [Ukelele](http://software.sil.org/ukelele) на macOS і [Microsoft Keyboard Layout Creator](https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator) на Windows, каб правіць файлы-крыніцы.
 
 [спампаваць]: https://github.com/adisloom/belcombo/releases
 [msklc]: https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator
