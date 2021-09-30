@@ -25,4 +25,4 @@
 
 ## Узяць удзел
 
-Скарыстай [Ukelele](http://software.sil.org/ukelele) на macOS і [Microsoft Keyboard Layout Creator](https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator) на Windows, каб правіць файлы-крыніцы.
+Скарыстай [Ukelele](http://software.sil.org/ukelele) на macOS і [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) на Windows, каб правіць файлы-крыніцы.
