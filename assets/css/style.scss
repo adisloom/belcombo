@@ -12,20 +12,19 @@ div.inner {
     background: transparent url(https://raw.githubusercontent.com/adisloom/belcombo/gh-pages/assets/images/dmg-icon.png) 12px 50% no-repeat;
 }
 .question {
-    color: black;
+    color: #303030;
 }
 p.question::before {
     content: "?";
-    font-size: 24px;
+    font-size: 130px;
     font-weight: bold;
     position: relative;
-    top: 3px;
-    margin: auto 10px auto;
+    top: 60px;
+    margin: auto 30px auto auto;
     color: #aaa;
   }
 .answer {
-    padding-left: 2rem;
-}
-#faq div {
-    margin-bottom: 3rem;
+    left: 110px;
+    position: relative;
+    margin: auto;
 }
