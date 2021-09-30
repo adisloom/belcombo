@@ -28,15 +28,14 @@ a:hover {
 }
 p.question::before {
     content: "?";
-    font-size: 130px;
+    font-size: 100px;
     font-weight: bold;
     position: relative;
-    top: 60px;
+    top: 50px;
     margin: auto 30px auto auto;
-    color: #aaa;
+    color: #d4d4d4;
+    line-height: 100px;
 }
 .answer {
-    left: 110px;
-    position: relative;
-    margin: auto;
+    margin-left: 90px;
 }
