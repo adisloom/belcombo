@@ -11,13 +11,16 @@ div.inner {
 #download-dmg span {
     background: transparent url(https://raw.githubusercontent.com/adisloom/belcombo/gh-pages/assets/images/dmg-icon.png) 12px 50% no-repeat;
 }
-#question {
+.question {
     color: black;
 }
-p#question::before {
+p.question::before {
     content: "?";
     font-size: larger;
   }
-#answer {
+.answer {
     padding-left: 2rem;
+}
+#faq div {
+    margin-bottom: 3rem;
 }
