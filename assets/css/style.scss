@@ -14,6 +14,10 @@ div.inner {
 #question {
     color: black;
 }
-#question {
+p#question::before {
+    content: "?";
+    font-size: larger;
+  }
+#answer {
     padding-left: 2rem;
 }
